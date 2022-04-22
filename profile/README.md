@@ -1,6 +1,6 @@
 ## Easy Scooter 👋
 
-Easy Scooter est une entreprise de location de trottinettes éléctriques.<br>
+Easy Scooter est une entreprise de location de trottinettes élctriques.<br>
 N'hésitez pas à visiter le site de [Easy Scooter](easyscooter.fr) pour découvrir nos offres !
 <!--
 
